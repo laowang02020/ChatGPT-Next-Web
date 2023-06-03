@@ -7,7 +7,7 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "加微信lwg15938 ",
+  title: "ChatGPT",
   description: "免费领取GPT教程  进入Ai新时代.",
   viewport: {
     width: "device-width",
